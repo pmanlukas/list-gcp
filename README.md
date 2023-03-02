@@ -1,9 +1,9 @@
 # list-gcp
 
-##GCP Resource Viewer
+## GCP Resource Viewer
 This is a simple Go script that authenticates with Google Cloud Platform (GCP) and retrieves the list of projects, folders, and org policy constraints for the selected project.
 
-##Prerequisites
+## Prerequisites
 - Go 1.16 or higher
 - A GCP project with the appropriate permissions
 - A service account key file with appropriate permissions
