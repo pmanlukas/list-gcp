@@ -15,11 +15,11 @@ This is a simple Go script that authenticates with Google Cloud Platform (GCP) a
 - (Optional) If you're using an .env file, make sure to install the github.com/joho/godotenv package by running the command go get github.com/joho/godotenv.
 - Build and run the script by running the command go run main.go.
 
-##Usage
+## Usage
 When you run the script, it will retrieve the list of projects for your GCP account and ask you to select a project by entering the corresponding number. Then, it will retrieve the list of folders and org policy constraints for the selected project and print them to the console.
 
-##Contributing
+## Contributing
 If you find any issues or have suggestions for improvements, please feel free to open an issue or a pull request.
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
